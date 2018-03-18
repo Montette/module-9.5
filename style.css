@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #000000, #53346d);
+}
+div {
+    display: flex;
+    justify-content: space-around;   
+}
+button {
+    height: 30px;
+    width: 80px;
+    background-color: white;  
+    font-weight: bold;   
+}
